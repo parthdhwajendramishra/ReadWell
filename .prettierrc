@@ -1,0 +1,7 @@
+{
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "requirePragma": true,
+  "insertPragma": true
+}
